@@ -1,0 +1,13 @@
+/Users/filippomomesso/Documents/Dev/Programmazione1/esami/2016/gennaio/es2/esercizio2.cc:33:64: error: function definition is not allowed here
+void somma_array(int n1[], int n2[], int risultato[], int dim) {
+                                                               ^
+/Users/filippomomesso/Documents/Dev/Programmazione1/esami/2016/gennaio/es2/esercizio2.cc:37:78: error: function definition is not allowed here
+void somma_arrayRec(int n1[], int n2[], int risultato[], int dim, int indice){
+                                                                             ^
+/Users/filippomomesso/Documents/Dev/Programmazione1/esami/2016/gennaio/es2/esercizio2.cc:42:2: error: expected '}'
+}
+ ^
+/Users/filippomomesso/Documents/Dev/Programmazione1/esami/2016/gennaio/es2/esercizio2.cc:28:41: note: to match this '{'
+void stampa_array(int array[], int dim) {
+                                        ^
+3 errors generated.
